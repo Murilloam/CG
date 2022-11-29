@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    width: 85%;
+    height: 85%;
+    display: block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+p {
+    margin-right: 10px;
+}
